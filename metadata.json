@@ -1,0 +1,8 @@
+{
+  "name": "Remix Harmoniq AI - Neural Music Generation Studio",
+  "description": "Deep learning music generation studio featuring MIDI data collection, music21 preprocessing, LSTM neural network training, piano roll synthesis, and MIDI/WAV export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
